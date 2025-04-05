@@ -1,4 +1,5 @@
 heart_disease_detection
+
 🪀 Heart Disease Detection using Machine Learning
 This project uses a Convolutional Neural Network (CNN) to detect heart disease from ECG images. The dataset consists of four categories:
 
@@ -12,8 +13,8 @@ HEARTDISEASEPREDICTION/ │ ├── ML images/ # ECG image dataset │ ├─�
 🚀 Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/meghana1653/heart_disease_detection.git
-cd heart_Disease_petection
+git clone [https://github.com/meghana1653/heart_disease_detection.git](https://github.com/meghana1653/Heart_Disease_prediction.git)
+cd heart_Disease_pedicition
 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
