@@ -17,6 +17,7 @@ HEARTDISEASEPREDICTION/ │ ├── ML images/ # ECG image dataset │ ├─�
 
 git clone [https://github.com/meghana1653/heart_disease_detection.git](https://github.com/meghana1653/Heart_Disease_prediction.git)
 cd heart_Disease_pedicition
+
 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
