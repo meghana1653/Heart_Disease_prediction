@@ -7,7 +7,9 @@ Abnormal heartbeat
 History of Myocardial Infarction (MI)
 Myocardial Infarction Patients
 Normal ECG images
+
 📂 Project Structure
+
 HEARTDISEASEPREDICTION/ │ ├── ML images/ # ECG image dataset │ ├── abnormal_heartbeat/ │ ├── history_of_mi/ │ ├── myocardial_infarction/ │ ├── normal/ │ # Saved trained models │ ├── heart_disease_prediction.ipynb # Jupyter Notebook for training & testing ├── requirements.txt # Dependencies ├── .gitignore # Files to ignore in Git ├── README.md # Documentation
 
 🚀 Installation
